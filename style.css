@@ -1,0 +1,18 @@
+td{
+    border: 1px solid pink;
+}
+.project{
+    background-color: #1c1c1c;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 722px;
+    font-size: 20px;
+}
+.color{
+    color: aliceblue;
+    display: flex;
+    flex-direction: row;
+}
